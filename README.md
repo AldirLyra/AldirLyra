@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu perfil ! 👋
+### Olá, seja bem-vindo! 👋
 
 - 🔭 Estudante de Sistemas de Informação;
 - 🌱 Admirador de Desenvolvimento Front-End;

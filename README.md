@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 👋
 
-- 🔭 Estudante de Sistemas de Informação;
+- 🔭 Cursando Sistemas de Informação (5°período);
 - 🌱 Admirador de Desenvolvimento Front-End;
 - 💬 Em busca de oportunidades;
 - 📫 Contate-me: aldir_lyra@hotmail.com

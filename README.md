@@ -1,7 +1,7 @@
-### Olá, seja bem-bindo ao meu perfil ! 👋
+### Olá, seja bem-vindo ao meu perfil ! 👋
 
 - 🔭 Estudante de Sistemas de Informação
-- 🌱 Admirador do Desenvolvimento Front-End
+- 🌱 Admirador de Desenvolvimento Front-End
 - 💬 Em busca de novas oportunidades na área de desenvolvimento
 - 📫 Contate-me no email: aldir_lyra@hotmail.com
 

@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Sistemas de Informação;
 - 🌱 Admirador de Desenvolvimento Front-End;
-- 💬 Em busca de novas oportunidades na área de desenvolvimento;
+- 💬 Em busca de oportunidades;
 - 📫 Contate-me no e-mail: aldir_lyra@hotmail.com.
 
 <div align="center">

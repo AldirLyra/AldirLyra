@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo! 👋
 
-- 🔭 Cursando Sistemas de Informação (7°período);
-- 🌱 Web Developer Jr;
+- 🔭 Cursando Sistemas de Informação;
+- 🌱 Full Stack Developer Jr;
 - 💬 Em busca de oportunidades;
 - 📫 Contate-me: aldir_lyra@hotmail.com
 

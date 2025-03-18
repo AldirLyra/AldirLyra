@@ -1,5 +1,3 @@
----
-
 ### Olá, seja bem-vindo! 👋
 
 - 🔭 **Graduando em Sistemas de Informação** (conclusão em 2025);

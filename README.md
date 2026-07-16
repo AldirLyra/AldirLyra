@@ -1,9 +1,8 @@
 ### Olá, seja bem-vindo! 👋
 
-- 🔭 **Graduando em Sistemas de Informação** (conclusão em 2025);
+- 🔭 **Graduado em Sistemas de Informação**;
 - 🌱 **Desenvolvedor Full Stack** | **Java (Spring Boot, Quarkus), Vue.js, Angular**;
 - 🚀 **Experiência com microserviços, APIs REST, Clean Architecture e DevOps**;
-- 💬 **Em busca de novas oportunidades** e desafios no desenvolvimento de software;
 - 📫 **Contate-me**: aldir_lyra@hotmail.com
 
 <div align="center">
@@ -21,7 +20,5 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
-
-![Snake animation](https://github.com/AldirLyra/AldirLyra/blob/output/github-contribution-grid-snake.svg)
 
 ---
